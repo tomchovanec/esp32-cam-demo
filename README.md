@@ -71,7 +71,7 @@ Important: Make the connections short or you are likely to get noisy or even not
 | Pixel Data Bit 6 | D8 | IO34 |
 | Pixel Data Bit 7 | D9 | IO35 |
 | Camera Reset | RESET | IO2 |
-| Camera Power Down | PWDN | *see Note 2* |
+| Camera Power Down | PWDN | IO0 (orig. *see Note 2*) |
 | Power Supply 3.3V | 3V3 | 3V3 |
 | Ground | GND | GND |
 
