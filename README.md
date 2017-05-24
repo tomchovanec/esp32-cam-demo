@@ -66,8 +66,8 @@ Important: Make the connections short or you are likely to get noisy or even not
 | Pixel Data Bit 1 | D3 | IO5 |
 | Pixel Data Bit 2 | D4 | IO18 |
 | Pixel Data Bit 3 | D5 | IO19 |
-| Pixel Data Bit 4 | D6 | IO36 |
-| Pixel Data Bit 5 | D7 | IO39 |
+| Pixel Data Bit 4 | D6 | IO32 |
+| Pixel Data Bit 5 | D7 | IO33 |
 | Pixel Data Bit 6 | D8 | IO34 |
 | Pixel Data Bit 7 | D9 | IO35 |
 | Camera Reset | RESET | IO2 |
